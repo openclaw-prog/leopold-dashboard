@@ -1,3 +1,8 @@
 # Leopold Dashboard
 
-Static exported Leopold/Situational Awareness 13F dashboard.
+Static published build of the Leopold / Situational Awareness LP 13F cockpit.
+
+Canonical fixed URL:
+https://openclaw-prog.github.io/leopold-dashboard/
+
+Source app lives in `leopold-dashboard-app/`; data source is `data/leopold/latest.json`.
