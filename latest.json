@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-03 18:07:23",
+  "generated_at_utc": "2026-08-03 22:07:27",
   "source": "SEC 13F",
   "changed": false,
   "latest_filing": {
@@ -8537,324 +8537,324 @@
     "AMD": {
       "ticker": "AMD",
       "currency": "USD",
-      "market_price": 489.9,
-      "market_change_pct": -0.010203050813213488,
-      "market_time": "2026-08-03 18:07:20 UTC",
+      "market_price": 484.64,
+      "market_change_pct": -0.020830386907768506,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Advanced Micro Devices, Inc.",
       "source": "Yahoo chart quote"
     },
     "APLD": {
       "ticker": "APLD",
       "currency": "USD",
-      "market_price": 29.92,
-      "market_change_pct": 0.13440758293838861,
-      "market_time": "2026-08-03 18:07:22 UTC",
+      "market_price": 29.49,
+      "market_change_pct": 0.11810426540284347,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "Applied Digital Corporation",
       "source": "Yahoo chart quote"
     },
     "ASML": {
       "ticker": "ASML",
       "currency": "USD",
-      "market_price": 1648.965,
-      "market_change_pct": -0.0038030279231058284,
-      "market_time": "2026-08-03 18:07:22 UTC",
+      "market_price": 1642.52,
+      "market_change_pct": -0.007696676050892304,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "ASML Holding N.V. - New York Re",
       "source": "Yahoo chart quote"
     },
     "AVGO": {
       "ticker": "AVGO",
       "currency": "USD",
-      "market_price": 392.25,
-      "market_change_pct": 0.02356348833568167,
-      "market_time": "2026-08-03 18:07:22 UTC",
+      "market_price": 392.23,
+      "market_change_pct": 0.023511298992745733,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "Broadcom Inc.",
       "source": "Yahoo chart quote"
     },
     "BE": {
       "ticker": "BE",
       "currency": "USD",
-      "market_price": 220.872,
-      "market_change_pct": 0.17372728238920176,
-      "market_time": "2026-08-03 18:07:19 UTC",
+      "market_price": 218.32,
+      "market_change_pct": 0.1601657987033691,
+      "market_time": "2026-08-03 20:00:03 UTC",
       "short_name": "Bloom Energy Corporation",
       "source": "Yahoo chart quote"
     },
     "BTDR": {
       "ticker": "BTDR",
       "currency": "USD",
-      "market_price": 11.405,
-      "market_change_pct": 0.004845814977973539,
-      "market_time": "2026-08-03 18:07:22 UTC",
+      "market_price": 11.37,
+      "market_change_pct": 0.0017621145374449032,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Bitdeer Technologies Group",
       "source": "Yahoo chart quote"
     },
     "BW": {
       "ticker": "BW",
       "currency": "USD",
-      "market_price": 9.555,
-      "market_change_pct": 0.01648936170212756,
-      "market_time": "2026-08-03 18:07:21 UTC",
+      "market_price": 9.52,
+      "market_change_pct": 0.012765957446808418,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Babcock & Wilcox Enterprises, I",
       "source": "Yahoo chart quote"
     },
     "CIFR": {
       "ticker": "CIFR",
       "currency": "USD",
-      "market_price": 25.01,
-      "market_change_pct": 0.15519630484988478,
-      "market_time": "2026-08-03 18:07:21 UTC",
+      "market_price": 24.16,
+      "market_change_pct": 0.11593533487297925,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Cipher Digital Inc.",
       "source": "Yahoo chart quote"
     },
     "CLSK": {
       "ticker": "CLSK",
       "currency": "USD",
-      "market_price": 14.625,
-      "market_change_pct": 0.04278074866310155,
-      "market_time": "2026-08-03 18:07:23 UTC",
+      "market_price": 14.65,
+      "market_change_pct": 0.04456327985739761,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "CleanSpark, Inc.",
       "source": "Yahoo chart quote"
     },
     "COHR": {
       "ticker": "COHR",
       "currency": "USD",
-      "market_price": 292.37,
-      "market_change_pct": 0.07762338284619075,
-      "market_time": "2026-08-03 18:07:21 UTC",
+      "market_price": 288.14,
+      "market_change_pct": 0.062032361505289124,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Coherent Corp.",
       "source": "Yahoo chart quote"
     },
     "CORZ": {
       "ticker": "CORZ",
       "currency": "USD",
-      "market_price": 22.86,
-      "market_change_pct": 0.10221793635486986,
-      "market_time": "2026-08-03 18:07:23 UTC",
+      "market_price": 22.83,
+      "market_change_pct": 0.10077145612343297,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Core Scientific, Inc.",
       "source": "Yahoo chart quote"
     },
     "CRWV": {
       "ticker": "CRWV",
       "currency": "USD",
-      "market_price": 83.905,
-      "market_change_pct": 0.18526628054810002,
-      "market_time": "2026-08-03 18:07:23 UTC",
+      "market_price": 85.76,
+      "market_change_pct": 0.21147054668738519,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "CoreWeave, Inc.",
       "source": "Yahoo chart quote"
     },
     "EQT": {
       "ticker": "EQT",
       "currency": "USD",
-      "market_price": 53.27,
-      "market_change_pct": 0.02442307692307688,
-      "market_time": "2026-08-03 18:07:17 UTC",
+      "market_price": 53.56,
+      "market_change_pct": 0.030000000000000027,
+      "market_time": "2026-08-03 20:03:41 UTC",
       "short_name": "EQT Corporation",
       "source": "Yahoo chart quote"
     },
     "GLW": {
       "ticker": "GLW",
       "currency": "USD",
-      "market_price": 147.405,
-      "market_change_pct": 0.028215680803571397,
-      "market_time": "2026-08-03 18:07:22 UTC",
+      "market_price": 146.64,
+      "market_change_pct": 0.02287946428571419,
+      "market_time": "2026-08-03 20:04:34 UTC",
       "short_name": "Corning Incorporated",
       "source": "Yahoo chart quote"
     },
     "HIVE": {
       "ticker": "HIVE",
       "currency": "USD",
-      "market_price": 2.92,
-      "market_change_pct": -0.01016949152542379,
-      "market_time": "2026-08-03 18:07:14 UTC",
+      "market_price": 2.89,
+      "market_change_pct": -0.02033898305084747,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "HIVE Digital Technologies Ltd",
       "source": "Yahoo chart quote"
     },
     "HUT": {
       "ticker": "HUT",
       "currency": "USD",
-      "market_price": 112.296,
-      "market_change_pct": 0.07367817190936043,
-      "market_time": "2026-08-03 18:07:15 UTC",
+      "market_price": 112.08,
+      "market_change_pct": 0.0716129649106032,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Hut 8 Corp.",
       "source": "Yahoo chart quote"
     },
     "INFY": {
       "ticker": "INFY",
       "currency": "USD",
-      "market_price": 12.29,
-      "market_change_pct": 0.05042735042735047,
-      "market_time": "2026-08-03 18:07:21 UTC",
+      "market_price": 12.25,
+      "market_change_pct": 0.047008547008547064,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Infosys Limited",
       "source": "Yahoo chart quote"
     },
     "INTC": {
       "ticker": "INTC",
       "currency": "USD",
-      "market_price": 91.49,
-      "market_change_pct": -0.0019635649612742556,
-      "market_time": "2026-08-03 18:07:24 UTC",
+      "market_price": 91.0,
+      "market_change_pct": -0.0073088251336315135,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Intel Corporation",
       "source": "Yahoo chart quote"
     },
     "IREN": {
       "ticker": "IREN",
       "currency": "USD",
-      "market_price": 40.04,
-      "market_change_pct": 0.10333425186001644,
-      "market_time": "2026-08-03 18:07:21 UTC",
+      "market_price": 39.75,
+      "market_change_pct": 0.09534306971617523,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "IREN LIMITED",
       "source": "Yahoo chart quote"
     },
     "KRC": {
       "ticker": "KRC",
       "currency": "USD",
-      "market_price": 39.03,
-      "market_change_pct": -0.009642222786094834,
-      "market_time": "2026-08-03 18:07:00 UTC",
+      "market_price": 39.0,
+      "market_change_pct": -0.010403450900786537,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Kilroy Realty Corporation",
       "source": "Yahoo chart quote"
     },
     "LBRT": {
       "ticker": "LBRT",
       "currency": "USD",
-      "market_price": 18.985,
-      "market_change_pct": 0.12603795966785292,
-      "market_time": "2026-08-03 18:07:07 UTC",
+      "market_price": 18.98,
+      "market_change_pct": 0.12574139976275212,
+      "market_time": "2026-08-03 20:00:03 UTC",
       "short_name": "Liberty Energy Inc.",
       "source": "Yahoo chart quote"
     },
     "LITE": {
       "ticker": "LITE",
       "currency": "USD",
-      "market_price": 781.105,
-      "market_change_pct": 0.09711922018090902,
-      "market_time": "2026-08-03 18:07:25 UTC",
+      "market_price": 779.89,
+      "market_change_pct": 0.09541266363278833,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Lumentum Holdings Inc.",
       "source": "Yahoo chart quote"
     },
     "MU": {
       "ticker": "MU",
       "currency": "USD",
-      "market_price": 834.765,
-      "market_change_pct": -0.0726894023550323,
-      "market_time": "2026-08-03 18:07:24 UTC",
+      "market_price": 829.5,
+      "market_change_pct": -0.07853810264385697,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Micron Technology, Inc.",
       "source": "Yahoo chart quote"
     },
     "NVDA": {
       "ticker": "NVDA",
       "currency": "USD",
-      "market_price": 208.25,
-      "market_change_pct": 0.05974250674265935,
-      "market_time": "2026-08-03 18:07:25 UTC",
+      "market_price": 206.64,
+      "market_change_pct": 0.05154953946364049,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "NVIDIA Corporation",
       "source": "Yahoo chart quote"
     },
     "ORCL": {
       "ticker": "ORCL",
       "currency": "USD",
-      "market_price": 140.605,
-      "market_change_pct": 0.1726855713094244,
-      "market_time": "2026-08-03 18:07:24 UTC",
+      "market_price": 141.85,
+      "market_change_pct": 0.18306922435362782,
+      "market_time": "2026-08-03 20:03:55 UTC",
       "short_name": "Oracle Corporation",
       "source": "Yahoo chart quote"
     },
     "PSIX": {
       "ticker": "PSIX",
       "currency": "USD",
-      "market_price": 28.945,
-      "market_change_pct": -0.03709248170326007,
-      "market_time": "2026-08-03 18:07:01 UTC",
+      "market_price": 28.78,
+      "market_change_pct": -0.042581503659347875,
+      "market_time": "2026-08-03 20:00:01 UTC",
       "short_name": "Power Solutions International, ",
       "source": "Yahoo chart quote"
     },
     "PUMP": {
       "ticker": "PUMP",
       "currency": "USD",
-      "market_price": 11.09,
-      "market_change_pct": 0.027803521779425466,
-      "market_time": "2026-08-03 18:06:45 UTC",
+      "market_price": 11.16,
+      "market_change_pct": 0.03429101019462477,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "ProPetro Holding Corp.",
       "source": "Yahoo chart quote"
     },
     "RIOT": {
       "ticker": "RIOT",
       "currency": "USD",
-      "market_price": 21.54,
-      "market_change_pct": -0.019572143832498834,
-      "market_time": "2026-08-03 18:07:25 UTC",
+      "market_price": 21.42,
+      "market_change_pct": -0.0250341374601728,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "Riot Platforms, Inc.",
       "source": "Yahoo chart quote"
     },
     "SEI": {
       "ticker": "SEI",
       "currency": "USD",
-      "market_price": 55.59,
-      "market_change_pct": 0.05704506560182554,
-      "market_time": "2026-08-03 18:07:15 UTC",
+      "market_price": 55.52,
+      "market_change_pct": 0.05571401407111609,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Solaris Energy Infrastructure, ",
       "source": "Yahoo chart quote"
     },
     "SHAZ": {
       "ticker": "SHAZ",
       "currency": "USD",
-      "market_price": 53.02,
-      "market_change_pct": -0.09814594318761682,
-      "market_time": "2026-08-03 18:07:24 UTC",
+      "market_price": 52.38,
+      "market_change_pct": -0.10903214832454489,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "SharonAI Holdings, Inc.",
       "source": "Yahoo chart quote"
     },
     "SMH": {
       "ticker": "SMH",
       "currency": "USD",
-      "market_price": 547.75,
-      "market_change_pct": -0.0014583903017043598,
-      "market_time": "2026-08-03 18:07:26 UTC",
+      "market_price": 545.46,
+      "market_change_pct": -0.005633032540333427,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "VanEck Semiconductor ETF",
       "source": "Yahoo chart quote"
     },
     "SNDK": {
       "ticker": "SNDK",
       "currency": "USD",
-      "market_price": 1313.39,
-      "market_change_pct": 0.027506786728523025,
-      "market_time": "2026-08-03 18:07:25 UTC",
+      "market_price": 1288.03,
+      "market_change_pct": 0.007666851818530329,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "Sandisk Corporation",
       "source": "Yahoo chart quote"
     },
     "TE": {
       "ticker": "TE",
       "currency": "USD",
-      "market_price": 4.925,
-      "market_change_pct": 0.005102040816326481,
-      "market_time": "2026-08-03 18:07:26 UTC",
+      "market_price": 4.94,
+      "market_change_pct": 0.008163265306122547,
+      "market_time": "2026-08-03 20:00:03 UTC",
       "short_name": "T1 Energy Inc.",
       "source": "Yahoo chart quote"
     },
     "TSEM": {
       "ticker": "TSEM",
       "currency": "USD",
-      "market_price": 237.895,
-      "market_change_pct": 0.061036528254761135,
-      "market_time": "2026-08-03 18:07:23 UTC",
+      "market_price": 234.32,
+      "market_change_pct": 0.045091655144730236,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "Tower Semiconductor Ltd.",
       "source": "Yahoo chart quote"
     },
     "TSM": {
       "ticker": "TSM",
       "currency": "USD",
-      "market_price": 406.52,
-      "market_change_pct": 0.018617354481445414,
-      "market_time": "2026-08-03 18:07:25 UTC",
+      "market_price": 406.11,
+      "market_change_pct": 0.017590017289333293,
+      "market_time": "2026-08-03 20:00:02 UTC",
       "short_name": "Taiwan Semiconductor Manufactur",
       "source": "Yahoo chart quote"
     },
     "WYFI": {
       "ticker": "WYFI",
       "currency": "USD",
-      "market_price": 26.2,
-      "market_change_pct": 0.13174946004319654,
-      "market_time": "2026-08-03 18:06:51 UTC",
+      "market_price": 25.95,
+      "market_change_pct": 0.12095032397408212,
+      "market_time": "2026-08-03 20:00:00 UTC",
       "short_name": "WhiteFiber, Inc.",
       "source": "Yahoo chart quote"
     }
@@ -9288,8 +9288,8 @@
         "close": 27.389999389648438
       },
       {
-        "date": "2026-07-31",
-        "close": 27.389999389648438
+        "date": "2026-08-03",
+        "close": 29.489999771118164
       }
     ],
     "BROADCOM INC": [
@@ -9702,8 +9702,8 @@
         "close": 389.2799987792969
       },
       {
-        "date": "2026-07-31",
-        "close": 389.2799987792969
+        "date": "2026-08-03",
+        "close": 392.2300109863281
       }
     ],
     "CORE SCIENTIFIC INC NEW": [
@@ -10116,8 +10116,8 @@
         "close": 20.719999313354492
       },
       {
-        "date": "2026-07-31",
-        "close": 20.719999313354492
+        "date": "2026-08-03",
+        "close": 22.829999923706055
       }
     ],
     "EQT CORP": [
@@ -10530,8 +10530,8 @@
         "close": 53.290000915527344
       },
       {
-        "date": "2026-07-31",
-        "close": 53.290000915527344
+        "date": "2026-08-03",
+        "close": 53.560001373291016
       }
     ],
     "INTEL CORP": [
@@ -10944,8 +10944,8 @@
         "close": 90.19999694824219
       },
       {
-        "date": "2026-07-31",
-        "close": 90.19999694824219
+        "date": "2026-08-03",
+        "close": 91.0
       }
     ],
     "IREN LIMITED": [
@@ -11358,8 +11358,8 @@
         "close": 36.79999923706055
       },
       {
-        "date": "2026-07-31",
-        "close": 36.79999923706055
+        "date": "2026-08-03",
+        "close": 39.75
       }
     ],
     "VANECK ETF TRUST": [
@@ -11772,8 +11772,8 @@
         "close": 540.530029296875
       },
       {
-        "date": "2026-07-31",
-        "close": 540.530029296875
+        "date": "2026-08-03",
+        "close": 545.4600219726562
       }
     ],
     "BITDEER TECHNOLOGIES GROUP": [
@@ -12134,8 +12134,8 @@
         "close": 10.520000457763672
       },
       {
-        "date": "2026-07-31",
-        "close": 10.520000457763672
+        "date": "2026-08-03",
+        "close": 11.369999885559082
       }
     ],
     "BLOOM ENERGY CORP": [
@@ -12496,8 +12496,8 @@
         "close": 205.80999755859375
       },
       {
-        "date": "2026-07-31",
-        "close": 205.80999755859375
+        "date": "2026-08-03",
+        "close": 218.32000732421875
       }
     ],
     "CIPHER MINING INC": [
@@ -12858,8 +12858,8 @@
         "close": 22.31999969482422
       },
       {
-        "date": "2026-07-31",
-        "close": 22.31999969482422
+        "date": "2026-08-03",
+        "close": 24.15999984741211
       }
     ],
     "COHERENT CORP": [
@@ -13220,8 +13220,8 @@
         "close": 262.8900146484375
       },
       {
-        "date": "2026-07-31",
-        "close": 262.8900146484375
+        "date": "2026-08-03",
+        "close": 288.1400146484375
       }
     ],
     "COREWEAVE INC": [
@@ -13510,8 +13510,8 @@
         "close": 71.7699966430664
       },
       {
-        "date": "2026-07-31",
-        "close": 71.7699966430664
+        "date": "2026-08-03",
+        "close": 85.76000213623047
       }
     ],
     "GALAXY DIGITAL INC.": [],
@@ -13873,8 +13873,8 @@
         "close": 107.62999725341797
       },
       {
-        "date": "2026-07-31",
-        "close": 107.62999725341797
+        "date": "2026-08-03",
+        "close": 112.08000183105469
       }
     ],
     "LUMENTUM HLDGS INC": [
@@ -14235,8 +14235,8 @@
         "close": 713.9400024414062
       },
       {
-        "date": "2026-07-31",
-        "close": 713.9400024414062
+        "date": "2026-08-03",
+        "close": 779.8900146484375
       }
     ],
     "MICRON TECHNOLOGY INC": [
@@ -14597,8 +14597,8 @@
         "close": 823.030029296875
       },
       {
-        "date": "2026-07-31",
-        "close": 823.030029296875
+        "date": "2026-08-03",
+        "close": 829.5
       }
     ],
     "NVIDIA CORPORATION": [
@@ -14959,8 +14959,8 @@
         "close": 200.75
       },
       {
-        "date": "2026-07-31",
-        "close": 200.75
+        "date": "2026-08-03",
+        "close": 206.63999938964844
       }
     ],
     "RIOT PLATFORMS INC": [
@@ -15321,8 +15321,8 @@
         "close": 20.170000076293945
       },
       {
-        "date": "2026-07-31",
-        "close": 20.170000076293945
+        "date": "2026-08-03",
+        "close": 21.420000076293945
       }
     ],
     "SANDISK CORP": [
@@ -15635,8 +15635,8 @@
         "close": 1214.8299560546875
       },
       {
-        "date": "2026-07-31",
-        "close": 1214.8299560546875
+        "date": "2026-08-03",
+        "close": 1288.030029296875
       }
     ],
     "SEAGATE TECHNOLOGY HLDNGS PL": [],
@@ -15998,8 +15998,8 @@
         "close": 51.40999984741211
       },
       {
-        "date": "2026-07-31",
-        "close": 51.40999984741211
+        "date": "2026-08-03",
+        "close": 55.52000045776367
       }
     ],
     "TAIWAN SEMICONDUCTOR MFG LTD": [],
@@ -16361,8 +16361,8 @@
         "close": 219.6699981689453
       },
       {
-        "date": "2026-07-31",
-        "close": 219.6699981689453
+        "date": "2026-08-03",
+        "close": 234.32000732421875
       }
     ],
     "WESTERN DIGITAL CORP": [],
@@ -16672,8 +16672,8 @@
         "close": 9.319999694824219
       },
       {
-        "date": "2026-07-31",
-        "close": 9.319999694824219
+        "date": "2026-08-03",
+        "close": 9.520000457763672
       }
     ],
     "BITFARMS LTD": [],
@@ -16983,8 +16983,8 @@
         "close": 13.760000228881836
       },
       {
-        "date": "2026-07-31",
-        "close": 13.760000228881836
+        "date": "2026-08-03",
+        "close": 14.649999618530273
       }
     ],
     "INFOSYS LTD": [
@@ -17293,8 +17293,8 @@
         "close": 12.029999732971191
       },
       {
-        "date": "2026-07-31",
-        "close": 12.029999732971191
+        "date": "2026-08-03",
+        "close": 12.25
       }
     ],
     "KILROY RLTY CORP": [
@@ -17603,8 +17603,8 @@
         "close": 38.81999969482422
       },
       {
-        "date": "2026-07-31",
-        "close": 38.81999969482422
+        "date": "2026-08-03",
+        "close": 39.0
       }
     ],
     "LIBERTY ENERGY INC": [
@@ -17913,8 +17913,8 @@
         "close": 18.709999084472656
       },
       {
-        "date": "2026-07-31",
-        "close": 18.709999084472656
+        "date": "2026-08-03",
+        "close": 18.979999542236328
       }
     ],
     "POWER SOLUTIONS INTL INC": [
@@ -18223,8 +18223,8 @@
         "close": 27.610000610351562
       },
       {
-        "date": "2026-07-31",
-        "close": 27.610000610351562
+        "date": "2026-08-03",
+        "close": 28.780000686645508
       }
     ],
     "PROPETRO HLDG CORP": [
@@ -18533,8 +18533,8 @@
         "close": 11.100000381469727
       },
       {
-        "date": "2026-07-31",
-        "close": 11.100000381469727
+        "date": "2026-08-03",
+        "close": 11.15999984741211
       }
     ],
     "WHITEFIBER INC": [
@@ -18747,8 +18747,8 @@
         "close": 23.700000762939453
       },
       {
-        "date": "2026-07-31",
-        "close": 23.700000762939453
+        "date": "2026-08-03",
+        "close": 25.950000762939453
       }
     ],
     "ADVANCED MICRO DEVICES INC": [
@@ -19005,8 +19005,8 @@
         "close": 476.1499938964844
       },
       {
-        "date": "2026-07-31",
-        "close": 476.1499938964844
+        "date": "2026-08-03",
+        "close": 484.6400146484375
       }
     ],
     "ASML HLDG NV N Y REGISTRY": [
@@ -19263,8 +19263,8 @@
         "close": 1629.0
       },
       {
-        "date": "2026-07-31",
-        "close": 1629.0
+        "date": "2026-08-03",
+        "close": 1642.52001953125
       }
     ],
     "CORNING INC": [
@@ -19521,8 +19521,8 @@
         "close": 138.25
       },
       {
-        "date": "2026-07-31",
-        "close": 138.25
+        "date": "2026-08-03",
+        "close": 146.63999938964844
       }
     ],
     "HIVE DIGITAL TECHNOLOGIES LT": [
@@ -19779,8 +19779,8 @@
         "close": 2.8299999237060547
       },
       {
-        "date": "2026-07-31",
-        "close": 2.8299999237060547
+        "date": "2026-08-03",
+        "close": 2.890000104904175
       }
     ],
     "ORACLE CORP": [
@@ -20037,8 +20037,8 @@
         "close": 129.8699951171875
       },
       {
-        "date": "2026-07-31",
-        "close": 129.8699951171875
+        "date": "2026-08-03",
+        "close": 141.85000610351562
       }
     ],
     "SHARONAI HOLDINGS INC": [
@@ -20139,8 +20139,8 @@
         "close": 48.25
       },
       {
-        "date": "2026-07-31",
-        "close": 48.25
+        "date": "2026-08-03",
+        "close": 52.380001068115234
       }
     ],
     "T1 ENERGY INC": [
@@ -20397,8 +20397,8 @@
         "close": 4.170000076293945
       },
       {
-        "date": "2026-07-31",
-        "close": 4.170000076293945
+        "date": "2026-08-03",
+        "close": 4.940000057220459
       }
     ],
     "TAIWAN SEMICONDUCTOR MANUFAC": [
@@ -20655,8 +20655,8 @@
         "close": 404.25
       },
       {
-        "date": "2026-07-31",
-        "close": 404.25
+        "date": "2026-08-03",
+        "close": 406.1099853515625
       }
     ]
   },
@@ -20679,10 +20679,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 2053049490,
       "implied_disclosed_price": 383.4,
-      "live_market_price": 547.75,
+      "live_market_price": 545.46,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.0014583903017043598,
-      "move_vs_disclosed": 0.4286645800730309,
+      "live_market_change_pct": -0.005633032540333427,
+      "move_vs_disclosed": 0.42269170579029747,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20705,10 +20705,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 1568755032,
       "implied_disclosed_price": 174.4,
-      "live_market_price": 208.25,
+      "live_market_price": 206.64,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.05974250674265935,
-      "move_vs_disclosed": 0.19409403669724767,
+      "live_market_change_pct": 0.05154953946364049,
+      "move_vs_disclosed": 0.18486238532110089,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20731,10 +20731,10 @@
       "previous_disclosed_value_kusd": 250245996,
       "value_delta_kusd": 862881755,
       "implied_disclosed_price": 635.3399997374457,
-      "live_market_price": 1313.39,
+      "live_market_price": 1288.03,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.027506786728523025,
-      "move_vs_disclosed": 1.0672238495022484,
+      "live_market_change_pct": 0.007666851818530329,
+      "move_vs_disclosed": 1.0273082137631477,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20756,10 +20756,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 1072873230,
       "implied_disclosed_price": 147.11,
-      "live_market_price": 140.605,
+      "live_market_price": 141.85,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.1726855713094244,
-      "move_vs_disclosed": -0.04421861192305099,
+      "live_market_change_pct": 0.18306922435362782,
+      "move_vs_disclosed": -0.035755557066141086,
       "mixed_legs": false,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20783,10 +20783,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 1011851746,
       "implied_disclosed_price": 337.83999997328937,
-      "live_market_price": 834.765,
+      "live_market_price": 829.5,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.0726894023550323,
-      "move_vs_disclosed": 1.4708885865084032,
+      "live_market_change_pct": -0.07853810264385697,
+      "move_vs_disclosed": 1.455304286246693,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20808,10 +20808,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 1006247961,
       "implied_disclosed_price": 309.51,
-      "live_market_price": 392.25,
+      "live_market_price": 392.23,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.02356348833568167,
-      "move_vs_disclosed": 0.2673257729960261,
+      "live_market_change_pct": 0.023511298992745733,
+      "move_vs_disclosed": 0.2672611547284418,
       "mixed_legs": false,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20834,10 +20834,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 989328506,
       "implied_disclosed_price": 203.42999993008772,
-      "live_market_price": 489.9,
+      "live_market_price": 484.64,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.010203050813213488,
-      "move_vs_disclosed": 1.408199381449947,
+      "live_market_change_pct": -0.020830386907768506,
+      "move_vs_disclosed": 1.3823428214449933,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20860,10 +20860,10 @@
       "previous_disclosed_value_kusd": 911000117,
       "value_delta_kusd": 23055478,
       "implied_disclosed_price": 135.49000001160445,
-      "live_market_price": 220.872,
+      "live_market_price": 218.32,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.17372728238920176,
-      "move_vs_disclosed": 0.630171968271332,
+      "live_market_change_pct": 0.1601657987033691,
+      "move_vs_disclosed": 0.611336629871587,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20887,10 +20887,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 897535383,
       "implied_disclosed_price": 337.95000005647967,
-      "live_market_price": 406.52,
+      "live_market_price": 406.11,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.018617354481445414,
-      "move_vs_disclosed": 0.20289983705299774,
+      "live_market_change_pct": 0.017590017289333293,
+      "move_vs_disclosed": 0.20168663983467727,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20913,10 +20913,10 @@
       "previous_disclosed_value_kusd": 1211162272,
       "value_delta_kusd": -514519572,
       "implied_disclosed_price": 77.47000000778434,
-      "live_market_price": 83.905,
+      "live_market_price": 85.76,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.18526628054810002,
-      "move_vs_disclosed": 0.08306441192163505,
+      "live_market_change_pct": 0.21147054668738519,
+      "move_vs_disclosed": 0.10700916472676747,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20939,10 +20939,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 500241908,
       "implied_disclosed_price": 1320.8299989702507,
-      "live_market_price": 1648.965,
+      "live_market_price": 1642.52,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.0038030279231058284,
-      "move_vs_disclosed": 0.24843091183995725,
+      "live_market_change_pct": -0.007696676050892304,
+      "move_vs_disclosed": 0.24355140425379962,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -20964,10 +20964,10 @@
       "previous_disclosed_value_kusd": 328622455,
       "value_delta_kusd": 72413609,
       "implied_disclosed_price": 34.280000017095716,
-      "live_market_price": 40.04,
+      "live_market_price": 39.75,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.10333425186001644,
-      "move_vs_disclosed": 0.16802800408493934,
+      "live_market_change_pct": 0.09534306971617523,
+      "move_vs_disclosed": 0.15956826079860997,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -20989,10 +20989,10 @@
       "previous_disclosed_value_kusd": 418694320,
       "value_delta_kusd": -29607564,
       "implied_disclosed_price": 14.95999999692408,
-      "live_market_price": 22.86,
+      "live_market_price": 22.83,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.10221793635486986,
-      "move_vs_disclosed": 0.5280748666243473,
+      "live_market_change_pct": 0.10077145612343297,
+      "move_vs_disclosed": 0.5260695190303522,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21014,10 +21014,10 @@
       "previous_disclosed_value_kusd": 278033751,
       "value_delta_kusd": 41944367,
       "implied_disclosed_price": 23.73999999109689,
-      "live_market_price": 29.92,
+      "live_market_price": 29.49,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.13440758293838861,
-      "move_vs_disclosed": 0.26032013526624986,
+      "live_market_change_pct": 0.11810426540284347,
+      "move_vs_disclosed": 0.24220724562171458,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21041,10 +21041,10 @@
       "previous_disclosed_value_kusd": 746760097,
       "value_delta_kusd": -578724354,
       "implied_disclosed_price": 44.130000073534354,
-      "live_market_price": 91.49,
+      "live_market_price": 91.0,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.0019635649612742556,
-      "move_vs_disclosed": 1.0731928358837322,
+      "live_market_change_pct": -0.0073088251336315135,
+      "move_vs_disclosed": 1.0620892782317153,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -21066,10 +21066,10 @@
       "previous_disclosed_value_kusd": 78144759,
       "value_delta_kusd": 64021654,
       "implied_disclosed_price": 12.359999972179082,
-      "live_market_price": 21.54,
+      "live_market_price": 21.42,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.019572143832498834,
-      "move_vs_disclosed": 0.7427184505245976,
+      "live_market_change_pct": -0.0250341374601728,
+      "move_vs_disclosed": 0.7330097126386668,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21091,10 +21091,10 @@
       "previous_disclosed_value_kusd": 16600848,
       "value_delta_kusd": 87869095,
       "implied_disclosed_price": 8.510000008960471,
-      "live_market_price": 14.625,
+      "live_market_price": 14.65,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.04278074866310155,
-      "move_vs_disclosed": 0.7185663906698985,
+      "live_market_change_pct": 0.04456327985739761,
+      "move_vs_disclosed": 0.7215041109958298,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21116,10 +21116,10 @@
       "previous_disclosed_value_kusd": 85803005,
       "value_delta_kusd": -23328318,
       "implied_disclosed_price": 56.50999999095474,
-      "live_market_price": 55.59,
+      "live_market_price": 55.52,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.05704506560182554,
-      "move_vs_disclosed": -0.016280304213448837,
+      "live_market_change_pct": 0.05571401407111609,
+      "move_vs_disclosed": -0.017519023024477054,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21141,10 +21141,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 43900000,
       "implied_disclosed_price": 4.39,
-      "live_market_price": 4.925,
+      "live_market_price": 4.94,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.005102040816326481,
-      "move_vs_disclosed": 0.12186788154897488,
+      "live_market_change_pct": 0.008163265306122547,
+      "move_vs_disclosed": 0.12528473804100249,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21191,10 +21191,10 @@
       "previous_disclosed_value_kusd": 20043480,
       "value_delta_kusd": 9707763,
       "implied_disclosed_price": 8.65000014537208,
-      "live_market_price": 11.405,
+      "live_market_price": 11.37,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.004845814977973539,
-      "move_vs_disclosed": 0.3184970876679001,
+      "live_market_change_pct": 0.0017621145374449032,
+      "move_vs_disclosed": 0.3144508449613348,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21216,10 +21216,10 @@
       "previous_disclosed_value_kusd": 24701622,
       "value_delta_kusd": 1616802,
       "implied_disclosed_price": 60.88,
-      "live_market_price": 28.945,
+      "live_market_price": 28.78,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.03709248170326007,
-      "move_vs_disclosed": -0.5245565045992115,
+      "live_market_change_pct": -0.042581503659347875,
+      "move_vs_disclosed": -0.5272667542706965,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21242,10 +21242,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 21739292,
       "implied_disclosed_price": 135.9700030647411,
-      "live_market_price": 147.405,
+      "live_market_price": 146.64,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.028215680803571397,
-      "move_vs_disclosed": 0.08409940926319037,
+      "live_market_change_pct": 0.02287946428571419,
+      "move_vs_disclosed": 0.07847316830741313,
       "mixed_legs": true,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -21267,10 +21267,10 @@
       "previous_disclosed_value_kusd": 27770080,
       "value_delta_kusd": -6837064,
       "implied_disclosed_price": 11.91,
-      "live_market_price": 26.2,
+      "live_market_price": 25.95,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.13174946004319654,
-      "move_vs_disclosed": 1.1998320738874892,
+      "live_market_change_pct": 0.12095032397408212,
+      "move_vs_disclosed": 1.1788413098236776,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21292,10 +21292,10 @@
       "previous_disclosed_value_kusd": 8583726,
       "value_delta_kusd": 11305065,
       "implied_disclosed_price": 14.69,
-      "live_market_price": 9.555,
+      "live_market_price": 9.52,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.01648936170212756,
-      "move_vs_disclosed": -0.3495575221238938,
+      "live_market_change_pct": 0.012765957446808418,
+      "move_vs_disclosed": -0.35194009530292714,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21317,10 +21317,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 18095535,
       "implied_disclosed_price": 22.730000200977756,
-      "live_market_price": 53.02,
+      "live_market_price": 52.38,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.09814594318761682,
-      "move_vs_disclosed": 1.3326000673646843,
+      "live_market_change_pct": -0.10903214832454489,
+      "move_vs_disclosed": 1.3044434464081887,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21342,10 +21342,10 @@
       "previous_disclosed_value_kusd": 8656953,
       "value_delta_kusd": 4460470,
       "implied_disclosed_price": 14.41,
-      "live_market_price": 11.09,
+      "live_market_price": 11.16,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.027803521779425466,
-      "move_vs_disclosed": -0.23039555863983352,
+      "live_market_change_pct": 0.03429101019462477,
+      "move_vs_disclosed": -0.22553782095766828,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
@@ -21367,10 +21367,10 @@
       "previous_disclosed_value_kusd": 8910000,
       "value_delta_kusd": -2155000,
       "implied_disclosed_price": 13.51,
-      "live_market_price": 12.29,
+      "live_market_price": 12.25,
       "live_market_currency": "USD",
-      "live_market_change_pct": 0.05042735042735047,
-      "move_vs_disclosed": -0.09030347890451518,
+      "live_market_change_pct": 0.047008547008547064,
+      "move_vs_disclosed": -0.09326424870466321,
       "mixed_legs": false,
       "has_options": true,
       "quote_source": "Yahoo chart quote"
@@ -21392,10 +21392,10 @@
       "previous_disclosed_value_kusd": 0,
       "value_delta_kusd": 6443939,
       "implied_disclosed_price": 1.8999999115447905,
-      "live_market_price": 2.92,
+      "live_market_price": 2.89,
       "live_market_currency": "USD",
-      "live_market_change_pct": -0.01016949152542379,
-      "move_vs_disclosed": 0.5368421768114193,
+      "live_market_change_pct": -0.02033898305084747,
+      "move_vs_disclosed": 0.5210527023921239,
       "mixed_legs": false,
       "has_options": false,
       "quote_source": "Yahoo chart quote"
