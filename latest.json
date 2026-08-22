@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22 14:07:02",
+  "generated_at_utc": "2026-08-22 18:07:01",
   "source": "SEC 13F",
   "changed": false,
   "latest_filing": {
@@ -9029,7 +9029,7 @@
       "currency": "USD",
       "market_price": 289.52,
       "market_change_pct": -0.11143848018905567,
-      "market_time": "2026-08-21 20:00:02 UTC",
+      "market_time": "2026-08-21 20:00:03 UTC",
       "short_name": "Coherent Corp.",
       "source": "Yahoo chart quote"
     },
